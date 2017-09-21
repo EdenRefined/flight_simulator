@@ -1,5 +1,4 @@
 HTML: 
-
     Take off button id="startButton"
     disable take off button
 
